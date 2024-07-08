@@ -1,0 +1,11 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 9C5E-F983
+
+ Directory of C:\git_repos\scanme2\blah
+
+07/08/2024  11:47 AM    <DIR>          .
+07/08/2024  11:47 AM    <DIR>          ..
+07/08/2024  11:47 AM               346 blah.txt
+07/08/2024  11:47 AM                 0 blahh.txt
+               2 File(s)            346 bytes
+               2 Dir(s)  157,133,983,744 bytes free
